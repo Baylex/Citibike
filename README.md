@@ -2,7 +2,7 @@
 Mod 14: NYC Citibike with Tableau
 
 ## Overview of the statistical analysis:
-Reviewing data for Citibike data from NYC looking at geographical data, data disaggregated by user types and genders to determine if it would be a good investment for Des Moines. 
+Des Moines requested data for a business proposal.  August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines.  Other data points include usage durations, peak usage times, and the key target market. 
 
 ## Key Skills: 
 1. Import data into Tableau.
