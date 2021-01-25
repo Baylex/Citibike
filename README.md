@@ -22,30 +22,56 @@ Jupyter Notebook was used to change the trip duration data to a datetime field.
 
 
 ## Results of the NYC Citibikes Analysis:
-1. Checkout Times for All Users
+### 1. Checkout Times for All Users
 Data for all users
 ![Pic1](https://github.com/Baylex/Citibike/blob/main/Challenge/images/0_User.PNG)
 https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Users
 
 
-2. ![Pic2](https://github.com/Baylex/Citibike/blob/main/Challenge/images/1_Gender.PNG)
+### 2. Checkout Times by Gender
+akdj;laksdfj
+![Pic2](https://github.com/Baylex/Citibike/blob/main/Challenge/images/1_Gender.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Gender
 
-3. ![Pic3](https://github.com/Baylex/Citibike/blob/main/Challenge/images/2_Trips.PNG)
+### 3. Trips (Weekday per Hour)
+k;dlkasd;fkaj
+![Pic3](https://github.com/Baylex/Citibike/blob/main/Challenge/images/2_Trips.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Trips
 
-4. ![Pic4](https://github.com/Baylex/Citibike/blob/main/Challenge/images/3_TripGender.PNG)
+### 4. Trips by Gender (Weekday per Hour)
+aksjdfakjdf
+![Pic4](https://github.com/Baylex/Citibike/blob/main/Challenge/images/3_TripGender.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/TripGender
 
-5. ![Pic5](https://github.com/Baylex/Citibike/blob/main/Challenge/images/4_UserType.PNG)
+### 5. Trips by Gender and User Tpye (Weekday per Hour)
+aksdj;fkasdjf
+![Pic5](https://github.com/Baylex/Citibike/blob/main/Challenge/images/4_UserType.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserType
 
-6. ![Pic6](https://github.com/Baylex/Citibike/blob/main/Challenge/images/5_Rides.PNG)
+### 6. Number of Rides per Hour
+al;ksdf;akjdf
+![Pic6](https://github.com/Baylex/Citibike/blob/main/Challenge/images/5_Rides.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Rides
 
-7. ![Pic7](https://github.com/Baylex/Citibike/blob/main/Challenge/images/6_Repairs.PNG)
+### 7. Number of Rides with Bike ID
+akjsdfakjd
+![Pic7](https://github.com/Baylex/Citibike/blob/main/Challenge/images/6_Repairs.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Repair
 
 ## Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis
 
-1. ![Pic8](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra1.PNG)
-2. ![Pic9](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra2.PNG)
-3. ![Pic10](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra3.PNG)
+### 1. 
+
+![Pic8](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra1.PNG)
+
+### 2. 
+
+![Pic9](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra2.PNG)
+
+### 3. 
+
+![Pic10](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra3.PNG)
 
 
