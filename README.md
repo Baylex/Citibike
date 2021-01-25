@@ -22,6 +22,8 @@ Jupyter Notebook was used to change the trip duration data to a datetime field.
 
 
 ## Results of the NYC Citibikes Analysis:
+For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
+
 ### 1. Checkout Times for All Users
 [Checkout Times for All Users](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Users)
 The Citibikes usage reaches a top of 3000 minutes per user.
