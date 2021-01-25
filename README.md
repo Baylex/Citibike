@@ -10,11 +10,23 @@ Reviewing data for Citibike data from NYC looking at geographical data, data dis
 3. Use Tableau worksheets to display data in a professional way.
 4. Portray data accurately using Tableau dashboards.
 
+## Link to Tableau Story: 
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Story1?publish=yes
+
 ## Cleaning the Data:
+Jupyter Notebook was used to change the trip duration data to a datetime field.
 ![Pic](https://github.com/Baylex/Citibike/blob/main/Challenge/images/before_transformation.PNG)
+
 ![Pic0](https://github.com/Baylex/Citibike/blob/main/Challenge/images/after_transformation.PNG)
+
+
+
 ## Results of the NYC Citibikes Analysis:
-1. ![Pic1](https://github.com/Baylex/Citibike/blob/main/Challenge/images/0_User.PNG)
+1. Checkout Times for All Users
+Data for all users
+![Pic1](https://github.com/Baylex/Citibike/blob/main/Challenge/images/0_User.PNG)
+https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Users
+
 
 2. ![Pic2](https://github.com/Baylex/Citibike/blob/main/Challenge/images/1_Gender.PNG)
 
