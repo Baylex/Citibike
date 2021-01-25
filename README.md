@@ -67,6 +67,8 @@ The divergence line shows that there are high use on 1/3 of the bikes.
 
 ## Additional Analysis: 
 
+For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
+
 ### 1. Ride Starting Locations by Gender
 [Ride Starting Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Start)
 Males are more likely to start a trip farther than the main city center of NYC than others. 
