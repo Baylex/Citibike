@@ -23,40 +23,39 @@ Jupyter Notebook was used to change the trip duration data to a datetime field.
 
 ## Results of the NYC Citibikes Analysis:
 ### 1. Checkout Times for All Users
+[Checkout Times for All Users](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Users)
 The Citibikes usage reaches a top of 3000 minutes per user.
 ![Pic1](https://github.com/Baylex/Citibike/blob/main/Challenge/images/0_User.PNG)
-[Checkout Times for All Users](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Users)
-
 
 ### 2. Checkout Times by Gender
+[Checkout Times by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Gender)
 Males are significantly higher users than others. 
 ![Pic2](https://github.com/Baylex/Citibike/blob/main/Challenge/images/1_Gender.PNG)
-[Checkout Times by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Gender)
 
 ### 3. Trips (Weekday per Hour)
+[Trips (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Trips)
 6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends.
 ![Pic3](https://github.com/Baylex/Citibike/blob/main/Challenge/images/2_Trips.PNG)
-[Trips (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Trips)
 
 ### 4. Trips by Gender (Weekday per Hour)
+[Trips by Gender (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/TripGender)
 Males are high users during the peak hours. 
 ![Pic4](https://github.com/Baylex/Citibike/blob/main/Challenge/images/3_TripGender.PNG)
-[Trips by Gender (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/TripGender)
 
 ### 5. Trips by Gender and User Type (Weekday per Hour)
+[Trips by Gender and User Type (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserType)
 Males subscribers are the highest users followed by female subscribers. 
 ![Pic5](https://github.com/Baylex/Citibike/blob/main/Challenge/images/4_UserType.PNG)
-[Trips by Gender and User Type (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserType)
 
 ### 6. Number of Rides per Hour
+[Number of Rides per Hour](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Rides)
 Non-peak hours are 1-5 am.  
 ![Pic6](https://github.com/Baylex/Citibike/blob/main/Challenge/images/5_Rides.PNG)
-[Number of Rides per Hour](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Rides)
 
 ### 7. Number of Rides with Bike ID
+[Number of Rides with Bike ID](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Repair)
 The divergence line shows that there are high use on 1/3 of the bikes.
 ![Pic7](https://github.com/Baylex/Citibike/blob/main/Challenge/images/6_Repairs.PNG)
-[Number of Rides with Bike ID](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Repair)
 
 ## Summary:
 
@@ -67,16 +66,16 @@ The divergence line shows that there are high use on 1/3 of the bikes.
 ## Additional Analysis: 
 
 ### 1. Ride Starting Locations by Gender
+[Ride Starting Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Start)
 Males are more likely to start a trip farther than the main city center of NYC than others. 
 ![Pic8](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra1.PNG)
-[Ride Starting Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Start)
 
 ### 2. Ride Ending Locations by Gender
+[Ride Ending Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/End)
 Males are more likely end a trip across the river in the southwest are of NYC than others. 
 ![Pic9](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra2.PNG)
-[Ride Ending Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/End)
 
 ### 3. User Type Starting Location
+[User Type Starting Location](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserTypeMap)
 Subscribers are more likely to start trip farther than the main city center of NYC than others. 
 ![Pic10](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra3.PNG)
-[User Type Starting Location](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserTypeMap)
