@@ -76,7 +76,7 @@ Males are more likely to start a trip farther than the main city center of NYC t
 
 ### 2. Ride Ending Locations by Gender
 [Ride Ending Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/End)
-Males are more likely end a trip across the river in the southwest are of NYC than others. 
+Males are more likely end a trip across the river in the southwest area of NYC than others. 
 ![Pic9](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra2.PNG)
 
 ### 3. User Type Starting Location
