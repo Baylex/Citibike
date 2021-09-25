@@ -1,5 +1,11 @@
 # Citibike
-Mod 14: NYC Citibike with Tableau
+NYC Citibike with Tableau
+
+## Purpose: 
+1. Import data into Tableau.
+2. Create and style worksheets, dashboards, and stories in Tableau.
+3. Use Tableau worksheets to display data in a professional way.
+4. Portray data accurately using Tableau dashboards.
 
 ## Overview of the statistical analysis:
 Des Moines requested data for a business proposal.  August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines.  Other data points include usage durations, peak usage times, and the key target market. 
@@ -18,8 +24,6 @@ Jupyter Notebook was used to change the trip duration data to a datetime field.
 ![Pic](https://github.com/Baylex/Citibike/blob/main/Challenge/images/before_transformation.PNG)
 
 ![Pic0](https://github.com/Baylex/Citibike/blob/main/Challenge/images/after_transformation.PNG)
-
-
 
 ## Results of the NYC Citibikes Analysis:
 For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
